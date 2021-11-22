@@ -1,0 +1,15 @@
+h1 {
+    size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+ul {
+    background-color: salmon;
+}
+.corFundo {
+    background-color: palegreen;
+}
